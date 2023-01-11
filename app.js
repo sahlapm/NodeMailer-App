@@ -27,7 +27,7 @@ app.post("/", async (req, res) => {
        
        html:'<div style="width:100%;border-collapse:collapse;border:0;border-spacing:0;background:#ffffff;"><p><b>Hi My dear friend,</b></p>' +
        '<p>Hope you\'re doing well.</p>'+
-       '<p>I am pleased to state that I have successfully completed the work that have assigned to us.</p><br>'+
+       '<p>I am pleased to state that I have successfully completed the work of \'Mail a Friend - With Nodmailer package\' that have assigned to us.</p><br>'+
        '<p><b>Thanks & Regards</b></p>' +
        '<p><b>Sahla PM</b></p></div>' 
        
